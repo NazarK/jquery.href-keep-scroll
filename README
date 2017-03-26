@@ -1,6 +1,7 @@
-Add class .keep-scroll to any element, now window scroll position should be restored when browser will load new page.
+Add class .keep-scroll to any element, now window scroll position should be RESTORED when browser will load new page.
+I have made it for links that scroll whole site to top and it doesn't look very well.
 
-<a href="/some/path" class="keep-scroll">link that should not reset window scroll position</a>
+<a href="/some/path" class="keep-scroll">link that should NOT reset window scroll position</a>
 
 This feature require jquery.
 
