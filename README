@@ -1,0 +1,7 @@
+Add class .keep-scroll to any element, now window scroll position should be restored when browser will load new page.
+
+<a href="/some/path" class="keep-scroll">link that should not reset window scroll position</a>
+
+This feature require jquery.
+
+localStorage is used to save and restore window scroll position. 
