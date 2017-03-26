@@ -4,4 +4,6 @@ Add class .keep-scroll to any element, now window scroll position should be rest
 
 This feature require jquery.
 
-localStorage is used to save and restore window scroll position. 
+localStorage is used to save and restore window scroll position.
+
+Supports Turbolinks (Ruby on Rails)
